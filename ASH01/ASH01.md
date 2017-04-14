@@ -127,16 +127,16 @@ ASH01
 
 * crossfade at the very end
 
-##### Closer (Remix) 95.00 into Closer 95.00
+#### Closer (Remix) 95.00 into Closer 95.00
 
 * set Closer to Cue 1 (second beat in -02:54)
 * switch right after build up
 
-##### Closer 95.00 into City Of Industry 85.00
+#### Closer 95.00 into City Of Industry 85.00
 
 * fade in City Of Industries in Coda
 
-##### City Of Industries 85.00 into Day 38 96.00
+#### City Of Industries 85.00 into Day 38 96.00
 
 * start Day 38 right at the break in City Of Industries at -00:59
 
